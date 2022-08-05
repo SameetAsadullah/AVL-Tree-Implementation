@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\Uniii\Github Repositories\AVL-Tree-Implementation\src\AVLTree.h(290): warning C4715: 'AVLTree<int>::FullBinaryTree': not all control paths return a value
+F:\Uniii\Github Repositories\AVL-Tree-Implementation\src\AVLTree.h(218): warning C4715: 'AVLTree<int>::traverseForRemove': not all control paths return a value
+  AVL-Tree.vcxproj -> F:\Uniii\Github Repositories\AVL-Tree-Implementation\src\x64\Debug\AVL-Tree.exe
